@@ -7,7 +7,7 @@
 This framework includes:  
 - Easy-to-use tools for managing scenes, dialogue, and transitions  
 - Support for character sprites, backgrounds, and UI customization  
-- More Fiture 
+- More feature
 
 Whether you’re a beginner or an experienced developer, NovelNoodle is the perfect starting point for creating your own visual novel game in Unity.  
 
