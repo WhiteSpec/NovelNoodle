@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Tuan Yoshimura
+  m_EditorClassIdentifier: 
+  speakerName: Tuan Yoshimura
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: c511f9562d5972e45b2eab687beda953, type: 3}
+  - {fileID: 21300000, guid: dbc97e21f02bec140a2416cfdd49b50f, type: 3}
+  - {fileID: 21300000, guid: 1d2393e5216cdcc4fa26fa17fbb87cef, type: 3}
+  prefab: {fileID: -400084230080365608, guid: c346b87de362a2648a536b73606e7b9a, type: 3}

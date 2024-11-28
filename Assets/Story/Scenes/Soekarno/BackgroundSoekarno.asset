@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: BackgroundSoekarno
+  m_EditorClassIdentifier: 
+  speakerName: 
+  textColor: {r: 0, g: 0, b: 0, a: 0}
+  sprites:
+  - {fileID: 21300000, guid: 58d551b81b581e342a05b99a114c36b5, type: 3}
+  - {fileID: 21300000, guid: 120a6ffa10b05fb4a889aa77cf12e3de, type: 3}
+  - {fileID: 21300000, guid: 6ef887eea6d8ba3488f761215dc3d61d, type: 3}
+  - {fileID: 21300000, guid: a758fb56aff26c744a84e3baf0c8863f, type: 3}
+  - {fileID: 21300000, guid: 3bb223e64f71ddb44a2098d59cd5214c, type: 3}
+  - {fileID: 21300000, guid: 517dbbf8589ac52488e8bbd73b0f42ff, type: 3}
+  - {fileID: 21300000, guid: f317aba6d3316a34495db298be4961e0, type: 3}
+  - {fileID: 21300000, guid: 1558c68350824ee47a5be538ed3f4ec3, type: 3}
+  - {fileID: 21300000, guid: 36e19f60b263f494fada1c5aad80d2e3, type: 3}
+  - {fileID: 21300000, guid: fca89ec9c3f6bca4cbd776d19e37308e, type: 3}
+  - {fileID: 21300000, guid: ace04caf61351e64c9f91f513d4fdf19, type: 3}
+  - {fileID: 21300000, guid: ace04caf61351e64c9f91f513d4fdf19, type: 3}
+  - {fileID: 21300000, guid: afb25ee64dab2f74a9949db1cafc42fc, type: 3}
+  - {fileID: 21300000, guid: fca89ec9c3f6bca4cbd776d19e37308e, type: 3}
+  - {fileID: 21300000, guid: 5cc1210a2b9b9454b9c053597dfbebfa, type: 3}
+  - {fileID: 21300000, guid: 9655ffe747668c74c8e313931c6771ce, type: 3}
+  - {fileID: 21300000, guid: 6b4123a092703dc469aae6750fbef724, type: 3}
+  prefab: {fileID: -400084230080365608, guid: d2ef3745b500c2348a005528eb1a0f4e, type: 3}

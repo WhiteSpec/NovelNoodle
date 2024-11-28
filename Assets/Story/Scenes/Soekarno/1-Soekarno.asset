@@ -1,0 +1,403 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1-Soekarno
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'Kusno, kau yakin mau melamarnya? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 9b011c662da40e240bb0ee406005b587, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kau bahkan bukan putra Bupati. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 9b011c662da40e240bb0ee406005b587, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Percayalah. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Masalahnya, apa ayahnya akan menerimamu? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 9b011c662da40e240bb0ee406005b587, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Jangan panggil aku Soekarno bila tak bisa menaklukkan Belanda.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Omong kosong! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 9b011c662da40e240bb0ee406005b587, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Aku akan kembalikan jas ini besok. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 4
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Akan dibersihkan... '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 5
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 6
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Ya, apa yang kau lakukan di sini? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 7
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Keluar. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 8
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kau penduduk lokal! Keluar! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 9
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Apa kau sadar kalau kau penduduk lokal?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kau tak diizinkan dekat dengan putriku, Mien!
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Mengapa? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Aku salah apa, Pak? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kau berbeda dengan kami. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kau mungkin pakai baju yang sama seperti orang Belanda,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: tetapi kau masih bukan dari kelas kami.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Pergi dari sini! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kau! Ke sini! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Bawa dia keluar. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 93da6aa1a3ddcfa47b1107c3e80e0fd2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Saya bisa keluar sendiri. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Saya cinta dia! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 15
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kita adalah tuan! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Tuan untuk tanah kita sendiri! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Mereka takut pada kita! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 16
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Belanda itu cuma tamu! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Untuk apa kita menunduk? Bersujud? Merangkak?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 15
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Menjadi budak orang asing? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Untuk apa? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Apa itu? '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 16
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kita harus tegak! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Melawan Belanda itu! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 15
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Tegak berdiri melawan mereka! '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 6e4904df5f8e1734e8d9f663dd86c49c, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 5a08d300a8d3c9745b13218f92221e72, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 0}
+  nextScene: {fileID: 0}

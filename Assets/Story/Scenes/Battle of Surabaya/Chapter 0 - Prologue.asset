@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Chapter 0 - Prologue
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Indonesia mengalami kekosongan kekuasaan
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Diwakili Presiden Soekarno
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mengumumkan kemerdekaannya pada tanggal 17 Agustus 1945
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 2
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Berdasar perjanjian Vienna tahun 1942
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 3
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Sekutu terutama Belanda '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 4
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Menganggap Indonesia adalah hak atas kemenangan perang
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 5
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sebagai bagian dari Hindia Belanda
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 6
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Belanda ingin menguasai Indonesia kembali
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 7
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Namun Indonesia telah berubah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 8
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Bekas pelatihan Heiho dan tentara PETA
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 9
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dari masa penjajahan Jepang
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 10
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mengubah pola kebangsaan dan patriotism
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 11
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Indonesia memilih melawan dan mempertaahankan kemerdekaan
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 12
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Orang pribumi bekas anggota para militerisme bentukan Jepang dari organisasi
+      kipas hitam yang menyimpang
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 13
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Juga menjadi ancaman bagi perjiuangan bangsa
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 14
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Pasukan Belanda dalam AFNEI dan NICA merupakan titik awal konflik perdamaian
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 15
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Puluhan ribu milisi dan tentara republik
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 16
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Melawan pasukan sekutu yang bersenjata lengkap
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 17
+      actionType: 2
+      coords: {x: 200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Peristiwa ini dikenal dengan Pertempuran Sepuluh November
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 17
+      actionType: 2
+      coords: {x: -200, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Atau, Pertempuran Soerabaja
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 755db819ff1a2ea4aa12594b5b3997b8, type: 2}
+      spriteIndex: 17
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 094fd4ddb1592cc4db336271e0ceff6b, type: 3}
+  nextScene: {fileID: 11400000, guid: 6db014155eb88974fb553e31dbfa7c48, type: 2}

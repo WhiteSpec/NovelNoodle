@@ -1,0 +1,596 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Chapter 2 -  Mr Yoshimura
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Hai Musa,bagaimana kabarmu hari ini?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Selamat pagi tuan...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Alhamdulillah tuan, pagi ini banyak sepatu kotor.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Namanya adalah Kapten Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 5
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dia seorang perwira militer Jepang.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 4
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Saya Yoshimura, kamu Musa
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 6
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Ohayo, selamat pagi '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Musa tidak boleh takut
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Topi ini untuk Musa, jangan takut.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 7
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Musa tidak takut.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ibuku adalah seorang Fujinkai
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 8
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ibuku bilang ayahku meninggal dalam pertempuran melawan Belanda.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura,aku menganggapnya sebagai ayah kandungku sendiri.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tapi, dia akan segera pergi.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dia senang perang telah berakhir.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Yang dia ingin lakukan hanyalah pulang ke rumah.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Untuk melihat Gunung Fujiyama.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dan menikmati musim gugur bunga sakura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Juga untuk berkumpul kembali bersama putrinya, Kioko, dan istrinya lagi.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 9
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Aku sangat sedih, tapi,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Aku harus menjaga ibuku.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Musa, jaga baik-baik dirimu dan ibumu, ini buatmu.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 10
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Terima kasih tuan.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sampai berjumpa lagi.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Setelah pasukan Dai Nippon menyerah...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 11
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...kepada Sekutu pada tanggal 6 Agustus 1945,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...proklamasi yang dilakukan oleh Pak Sukarno...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 12
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...dan Pak Hatta pada tanggal 17 Agustus 1945,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 13
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...semoga Indonesia benar-benar telah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: mendapatkan kedaulatannya.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 14
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Dan para Pemuda Surabaya telah berhasil merebut senjata, dan melucuti
+      senjata tentara Jepang. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 41640de910fa1ce4193aa0c7379fdbb2, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 15
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 16
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 17
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura, tuan.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 18
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura, tuan.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 19
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 20
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 21
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 22
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 23
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 24
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Musa.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: addbe5d88294c3e41a9195407e5e9af1, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 25
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: '- Ya pak?'
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 26
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura, tuan.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 27
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Assallamuallaikum.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 28
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kenapa kamu pulang terlambat?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Maafkan aku telat pulang,bu.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 29
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Banyak sepatu yang harus dibersihkan.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Aku membersihkan semuanya.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Apa yang terjadi, Musa?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tuan...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tuan?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Apa maksudmu?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tn.Yoshimura...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dia dibunuh oleh para Kinil.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 30
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Astagfirullah...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dia orang yang sangat baik.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kenapa hidupnya begitu singkat?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Aku berdoa agar dia diterima di sisi Tuhan. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Aamiin.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: f0bc24833bbbb4348a350e5caf8de3eb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 31
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Keesokan hari
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: ...
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: a16530d4a5cb6cb418415dcdba67399a, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 903a64ad301eda84cb58d4ee062676a5, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: f56bb29264f9abe42bd6792e162cb610, type: 3}
+  nextScene: {fileID: 11400000, guid: 0070ec36a01e2d34fb301506f509f002, type: 2}

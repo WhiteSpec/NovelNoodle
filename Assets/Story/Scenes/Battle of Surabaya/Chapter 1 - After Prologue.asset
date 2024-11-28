@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Chapter 1 - After Prologue
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Hari itu semua orang bergembira
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -793, y: 128}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kehidupan penjajahan di negeri
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Telah sirna
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Rakyat berbagi ceria
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Pesta digelar
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 5
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tetapi kebahagian itu tidak lama
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 4
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sekutu dan Belanda kembali memasuki kota Surabaya
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 6
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Harga harga kebutuhan pokok semakin naik
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 7
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -793, y: 128}
+      moveSpeed: 1
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Suasana kacau tidak menentu
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 8
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Aku hanya ingin makan kenyang dan tidur nyenyak
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 8bad30bcd93156947952a17409014d8b, type: 2}
+      spriteIndex: 8
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Hanya itu\u2026"
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 822fed3d72eaed148bf4ad7348b237aa, type: 2}
+    actions: []
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 094fd4ddb1592cc4db336271e0ceff6b, type: 3}
+  nextScene: {fileID: 11400000, guid: 9f12eb0f07692234d9579c00bd3f5475, type: 2}
