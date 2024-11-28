@@ -7,7 +7,7 @@
 This framework includes:  
 - Easy-to-use tools for managing scenes, dialogue, and transitions  
 - Support for character sprites, backgrounds, and UI customization  
-- Simple code structure for adding interactive gameplay elements  
+- More Fiture 
 
 Whether you’re a beginner or an experienced developer, NovelNoodle is the perfect starting point for creating your own visual novel game in Unity.  
 
@@ -53,11 +53,10 @@ Follow these steps to set up and use *NovelNoodle* in Unity:
 ## 🤝 Contact and Credits
 
 If you have questions, suggestions, or feedback, feel free to reach out:  
-- **Email**: yourname@example.com  
-- **GitHub**: [@your-username](https://github.com/your-username)  
+- **Discord**: [Neu](https://discord.gg/qjxEGR4H)
 
 **Credits**:  
-While this project builds on [AD-works-dev's abandoned repository](https://github.com/AD-works-dev/Visual-Novel-Tutorial), *NovelNoodle* is an independent continuation with added improvements and support.  
+While this project builds on [AD-works-dev](https://github.com/AD-works-dev/Visual-Novel-Tutorial), *NovelNoodle* is an independent continuation with added improvements and support.  
 
 ---
 
